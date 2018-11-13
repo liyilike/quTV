@@ -1,0 +1,4 @@
+else{
+alert(ss.toString()+"ggg");
+window.top.location.href='//www.qutvb.com/';
+}
